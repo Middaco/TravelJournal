@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    font-family: Inter;
+}
+
+.nav-container{
+    background-color: #F55A5A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding-block: 20px;
+}
+
+.nav-container > img{
+    margin-right: 5px;
+}
+
+.destination-card{
+    display: flex;
+    align-items: center;
+    margin-inline: 40px; 
+    margin-block: 36px;   
+}
+
+.card-picture{
+    width: 125px;
+    height: 168px;
+    object-fit:scale-down;
+}
+
+.picture-container{
+    display: flex;
+    align-items: center;
+    width: 125px;
+    height: 168px;
+    margin-right: 1em;
+}
+
+.pin{
+    width: 7px;
+    height: 9.5px;
+    vertical-align: 10%;
+}
+
+.destination-country{
+    font-weight: 400;
+    letter-spacing: 0.5em;
+}
+
+.card-title{
+    margin-top: 0px;
+}
+
+.period-traveled{
+    margin-bottom: 0.5em;
+}
+
+.card-header > a{
+    color: #918E9B;
+}
+
+.divider{
+    margin-inline: 1em;
+}
+
