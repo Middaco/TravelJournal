@@ -1,3 +1,5 @@
 https://lucent-chimera-2651a3.netlify.app/
 
-This one paged app uses React.js to render an array of data. Each object is rendered in a Card component that properly displays all the details encapsulated in that object.
+Used concepts:
+- mapping an array of data
+- use props in order to keep the code DRY
